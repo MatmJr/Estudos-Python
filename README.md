@@ -23,3 +23,5 @@ Repositório com materiais que montei em aulas/tutoriais
 10 - knn - um algoritmo simples 
 
 11 - LSTM implementada na previsão de séries temporais
+
+12 - Otimização de Hiperpâmetros para usado na previsão de redes neurais
