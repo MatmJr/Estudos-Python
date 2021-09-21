@@ -25,3 +25,8 @@ Repositório com materiais que montei em aulas/tutoriais
 11 - LSTM implementada na previsão de séries temporais
 
 12 - Otimização de Hiperpâmetros para usado na previsão de redes neurais
+
+13 - Algoritmo de treinamento com o OpenCv  
+
+14 - Algoritmo de Identificação Facial com o OpenCv
+
