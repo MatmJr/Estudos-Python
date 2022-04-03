@@ -31,3 +31,5 @@ Repositório com materiais que montei em aulas/tutoriais
 14 - Algoritmo de Identificação Facial com o OpenCv
 
 15 - Algoritmo de Classificação - seleção de características e algoritmo de classificação usado no Airbnb dataset.
+
+16 - Script para converter arquivos exportados do whatsapp para excel
